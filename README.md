@@ -6,6 +6,6 @@ Hi there! I'm Anubhav Mor.
 
 You can access my resume by scanning the QR code above or clicking it directly.
 
-You can also connect with me on LinkedIn: [Anubhav Mor LinkedIn](https://www.linkedin.com/in/anubhavmor/).
+You can also connect with me on [LinkedIn: Anubhav Mor](https://www.linkedin.com/in/anubhavmor/).
 
 Thanks for your time!
